@@ -1,2 +1,2 @@
 # symmetrical-invention
-Test von Actions
+Test von Actions - speziell Playbook Linting
